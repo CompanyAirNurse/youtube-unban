@@ -1,20 +1,10 @@
 # youtube-unban
 
-> Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
 
-Сборка youtube-unban для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+Сборка youtube-unban для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-## Страницы
-- Сайт: https://companyairnurse.github.io/youtube-unban/
-- Релиз: https://github.com/CompanyAirNurse/youtube-unban/releases/latest
-- Исходный код: https://github.com/CompanyAirNurse/youtube-unban
-- Движок: https://github.com/bol-van/zapret
-
-## Запросы
-- обход замедления YouTube
-- YouTube тормозит что делать
-- YouTube не грузит видео
-- ускорить YouTube без VPN
-- zapret YouTube
-
-Windows 10/11, без VPN, бесплатно.
+Релиз: https://github.com/companyairnurse/youtube-unban/releases/latest
+Код: https://github.com/companyairnurse/youtube-unban
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/companyairnurse/youtube-unban
